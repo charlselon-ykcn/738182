@@ -4,7 +4,7 @@
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.5.7** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.6.0** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-04-dark-console-portrait)**
 https://motiongit.com/@adunext/template-04-dark-console-portrait
@@ -15,7 +15,7 @@ https://motiongit.com/@adunext/template-04-dark-console-portrait
 
 [![动画预览](assets/preview.gif)](https://motiontemplates.github.io/738182/zh.html)
 
-[查看完整样片](https://motiongit.com/@adunext/template-04-dark-console-portrait) · [播放视频](https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4)
+[查看完整样片](https://motiongit.com/@adunext/template-04-dark-console-portrait) · [播放视频](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
 ![模板构图与动效细节](assets/compositions.jpg)
 
