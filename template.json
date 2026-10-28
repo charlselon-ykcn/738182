@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "template-04-dark-console-portrait",
   "website": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
-  "version": "2.7.18-alpha.3",
+  "version": "2.7.18-alpha.4",
   "technical": {
     "en": [
       "Declared runtime profile: adu-authored-unit/1.",
@@ -21,7 +21,7 @@
     ]
   },
   "checkedAt": "2026-10-28",
-  "availability": "download-available",
+  "availability": "demo-only",
   "title": {
     "en": "Tech Console · Narrated Explainer · Portrait",
     "zh": "科技控制台 · 口播讲解 · 竖屏"

@@ -3,8 +3,8 @@
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
 模板与完整下载: https://motiongit.com/@adunext/template-04-dark-console-portrait
-版本: 2.7.18-alpha.3
-下载已开放，当前许可见模板页面与下载包。
+版本: 2.7.18-alpha.4
+Demo 已公开，模板下载即将开放。
 
 ## 技术资料
 

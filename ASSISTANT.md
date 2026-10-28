@@ -3,8 +3,8 @@
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
 Template & full download: https://motiongit.com/@adunext/template-04-dark-console-portrait
-Version: 2.7.18-alpha.3
-Download available; current terms are listed with the package.
+Version: 2.7.18-alpha.4
+Demo available; template download coming soon.
 
 ## Technical reference
 

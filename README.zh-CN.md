@@ -4,12 +4,12 @@
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.3** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.4** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-04-dark-console-portrait)**
 https://motiongit.com/@adunext/template-04-dark-console-portrait
 
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，模板下载即将开放。
 
 ## Demo
 

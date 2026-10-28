@@ -4,12 +4,12 @@
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.3** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**9:16 · 1080 × 1920 · 60 fps · v2.7.18-alpha.4** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-04-dark-console-portrait)**
 https://motiongit.com/@adunext/template-04-dark-console-portrait
 
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Demo
 
